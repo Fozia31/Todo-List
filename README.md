@@ -18,7 +18,7 @@ The design includes a beautiful gradient background and a clean layout for an en
 ---
 
 ## 📸 Screenshots
-![Todo App Screenshot](./assert/Final-output.png)
+![Todo App Screenshot](./assets/Final_output.png)
 
 ---
 ## 🛠 Tech Stack
